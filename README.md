@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Welcome to my portfolio repository! This portfolio showcases a collection of my projects and accomplishments. This portfolio is a testament to my excellent skills, experience, and history of personal growth in data analytics. In this repository, you can find detailed documentation on some of my work, source coda, and insights into the various projects I have worked on.
+Welcome to my portfolio repository! This portfolio showcases a collection of my projects and accomplishments. This portfolio is a testament to my excellent skills, experience, and history of personal growth in data analytics. In this repository, you can find detailed documentation on some of my work, source code, and insights into the various projects I have worked on.
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1FlkXFQLjLOXNB6EpkAEBSBQvF7kkiqAL).
@@ -26,7 +26,7 @@ Welcome to my portfolio repository! This portfolio showcases a collection of my 
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
    - [A7 List Your Data Analytics Skills](https://github.com/ZhenpengLuo/Analytics1/edit/main/README.md).
 
-## SkilL
+## Skill
   - **Statistical analysis:** Proficiency in the use of statistical techniques to derive meaningful insights from data.
   - **Programming Languages:** Skilled in Python for data analysis.
   - **Report Generation and Presentation:** Capable of generating comprehensive reports and presenting findings clearly and understandably to both technical and non-technical audiences.
