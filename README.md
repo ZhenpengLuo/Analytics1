@@ -1,7 +1,9 @@
 Data Analytics Portfolio
 
 My Résumé
+
 Résumé
+
 Table of Contents
 Module 1: Using Colab
 
