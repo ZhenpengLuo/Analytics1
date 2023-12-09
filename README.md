@@ -9,22 +9,22 @@ Welcome to my portfolio repository! This portfolio showcases a collection of my 
    - A1: Markdown CV
 
 2. **Module 2: Fundamentals of Programming for Data Analysis**
-   - [A2 Programming Fundamentals](https://colab.research.google.com/drive/1OfmIoy4TwJ80FMXN66wlDegOuWTiX7QD).
+   - A2 [Programming Fundamentals](https://colab.research.google.com/drive/1OfmIoy4TwJ80FMXN66wlDegOuWTiX7QD).
 
 3. **Module 3: Working with Data**
-   - [A3 Work with data Yelp Reviews](https://colab.research.google.com/drive/1wokBsNuI5LouS2llLdoNZ7CAa7AdXLL5).
+   - A3 [Work with data Yelp Reviews](https://colab.research.google.com/drive/1wokBsNuI5LouS2llLdoNZ7CAa7AdXLL5).
 
 4. **Module 4: Stats review**
-   - [A4 Hypothesis testing - FB ads and Starbucks promos](https://colab.research.google.com/drive/1YY6tsPMuFv_jaxCsDiu4bPAbkdoZN-42).
+   - A4 [Hypothesis testing - FB ads and Starbucks promos](https://colab.research.google.com/drive/1YY6tsPMuFv_jaxCsDiu4bPAbkdoZN-42).
 
 5. **Module 5: Regression**
-   - [A5 Regression Analysis](https://colab.research.google.com/drive/1ctQzN6fzeqygHuyMFZ-bOsw7NYgBRbsO).
+   - A5 [Regression Analysis](https://colab.research.google.com/drive/1ctQzN6fzeqygHuyMFZ-bOsw7NYgBRbsO).
 
 6. **Module 6: Clustering and Segmentation**
-   - [A6 Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1I78d8_foFTwpufhTd3nUgY_vJTw3SOK6#scrollTo=5EpCCf8yaNid).
+   - A6 [Segmentation (retail transactions and behavioral segmentation)](https://colab.research.google.com/drive/1I78d8_foFTwpufhTd3nUgY_vJTw3SOK6#scrollTo=5EpCCf8yaNid).
 
 7. **Module 7: Use GitHub to Create Your Assignment Portfolio**
-   - [A7 List Your Data Analytics Skills](https://github.com/ZhenpengLuo/Analytics1/edit/main/README.md).
+   - A7 [List Your Data Analytics Skills](https://github.com/ZhenpengLuo/Analytics1/edit/main/README.md).
 
 ## Skill
   - **Statistical analysis:** Proficiency in the use of statistical techniques to derive meaningful insights from data.
